@@ -1,2 +1,5 @@
-# rut
-Requirements Use Case Tool
+# Requirements Use Case Tool
+
+The Requirements Use case Tool (RUT) provides assistance to managers, customers, and developers in assessing the quality of use cases. In addition, RUT serves as a database repository for requirements developed as use cases. To ensure consistency, the tool provides a standard use case template to be used for all use case entry into the repository. Furthermore, RUT provides integration with Rational Rose, the industry-standard tool for developing UML diagrams. The tool also provides a series of metrics useful for calculating information about the relationships among the captured use cases. RUT performs use case evaluation by searching text and identifying risk indicators such as incomplete or weak phrases. The Requirements Use case Tool is a valuable resource for collecting, evaluating, and maintaining software requirements gathered as use cases.RUT is a web-based, multi-user application that provides project team members with the ability to create, view, and modify use cases and related information for a particular project. The "dashboard" view provided by the tool gives managers and others the ability to quickly ascertain the status of a project by viewing various use case metrics.
+
+RUT was originally developed by James R. McCoy in 2003 and presented at the OOPSLA '03 conference on Object-oriented programming, systems, languages, and applications.
